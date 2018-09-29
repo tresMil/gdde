@@ -1,0 +1,89 @@
+
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="A&E" tvg-logo="" group-title="",A&E
+http://195.154.255.148:25461/live/skytv12/skyline/1252.ts
+#EXTINF:-1 tvg-id="" tvg-name="AMC" tvg-logo="" group-title="",AMC
+http://195.154.255.148:25461/live/skytv12/skyline/1308.ts
+#EXTINF:-1 tvg-id="" tvg-name="AXN" tvg-logo="" group-title="",AXN
+http://195.154.255.148:25461/live/skytv12/skyline/1293.ts
+#EXTINF:-1 tvg-id="" tvg-name="CINEMAX HD" tvg-logo="" group-title="LATINOS HD",CINEMAX HD
+http://195.154.255.148:25461/live/skytv12/skyline/934.ts
+#EXTINF:-1 tvg-id="" tvg-name="DHE HD" tvg-logo="" group-title="LATINOS HD",DHE HD
+http://195.154.255.148:25461/live/skytv12/skyline/911.ts
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY CHANEL HD" tvg-logo="" group-title="LATINOS HD",DISCOVERY CHANEL HD
+http://195.154.255.148:25461/live/skytv12/skyline/937.ts
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY HOME HEALTH HD" tvg-logo="" group-title="LATINOS HD",DISCOVERY HOME HEALTH HD
+http://195.154.255.148:25461/live/skytv12/skyline/939.ts
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY THEATER HD" tvg-logo="" group-title="LATINOS HD",DISCOVERY THEATER HD
+http://195.154.255.148:25461/live/skytv12/skyline/940.ts
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY TURBO HD" tvg-logo="" group-title="LATINOS HD",DISCOVERY TURBO HD
+http://195.154.255.148:25461/live/skytv12/skyline/913.ts
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY CHANEL HD" tvg-logo="" group-title="",DISNEY CHANEL HD
+http://195.154.255.148:25461/live/skytv12/skyline/1013.ts
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY XD" tvg-logo="" group-title="",DISNEY XD
+http://195.154.255.148:25461/live/skytv12/skyline/1300.ts
+#EXTINF:-1 tvg-id="" tvg-name="FOX ACTION HD" tvg-logo="" group-title="LATINOS HD",FOX ACTION HD
+http://195.154.255.148:25461/live/skytv12/skyline/917.ts
+#EXTINF:-1 tvg-id="" tvg-name="FOX CLASSIC HD" tvg-logo="" group-title="LATINOS HD",FOX CLASSIC HD
+http://195.154.255.148:25461/live/skytv12/skyline/889.ts
+#EXTINF:-1 tvg-id="" tvg-name="FOX COMEDY SD" tvg-logo="" group-title="LATINOS SD",FOX COMEDY SD
+http://195.154.255.148:25461/live/skytv12/skyline/1055.ts
+#EXTINF:-1 tvg-id="" tvg-name="Fox HD ES" tvg-logo="" group-title="",Fox HD ES
+http://195.154.255.148:25461/live/skytv12/skyline/1290.ts
+#EXTINF:-1 tvg-id="" tvg-name="FOX PREMIUN SERIES HD" tvg-logo="" group-title="LATINOS HD",FOX PREMIUN SERIES HD
+http://195.154.255.148:25461/live/skytv12/skyline/989.ts
+#EXTINF:-1 tvg-id="" tvg-name="HBO HD" tvg-logo="" group-title="LATINOS HD",HBO HD
+http://195.154.255.148:25461/live/skytv12/skyline/996.ts
+#EXTINF:-1 tvg-id="" tvg-name="HBO 2 HD" tvg-logo="" group-title="LATINOS HD",HBO 2 HD
+http://195.154.255.148:25461/live/skytv12/skyline/946.ts
+#EXTINF:-1 tvg-id="" tvg-name="HBO FAMILY HD" tvg-logo="" group-title="LATINOS HD",HBO FAMILY HD
+http://195.154.255.148:25461/live/skytv12/skyline/895.ts
+#EXTINF:-1 tvg-id="" tvg-name="HBO FAMILY SD" tvg-logo="" group-title="LATINOS SD",HBO FAMILY SD
+http://195.154.255.148:25461/live/skytv12/skyline/1082.ts
+#EXTINF:-1 tvg-id="" tvg-name="HBO PLUS HD" tvg-logo="" group-title="LATINOS HD",HBO PLUS HD
+http://195.154.255.148:25461/live/skytv12/skyline/922.ts
+#EXTINF:-1 tvg-id="" tvg-name="HBO PLUS SD" tvg-logo="" group-title="LATINOS SD",HBO PLUS SD
+http://195.154.255.148:25461/live/skytv12/skyline/1059.ts
+#EXTINF:-1 tvg-id="" tvg-name="HBO SIGNATURE HD" tvg-logo="" group-title="LATINOS HD",HBO SIGNATURE HD
+http://195.154.255.148:25461/live/skytv12/skyline/967.ts
+#EXTINF:-1 tvg-id="" tvg-name="MAX PRIME HD" tvg-logo="" group-title="LATINOS HD",MAX PRIME HD
+http://195.154.255.148:25461/live/skytv12/skyline/969.ts
+#EXTINF:-1 tvg-id="" tvg-name="MAX UP HD" tvg-logo="" group-title="LATINOS HD",MAX UP HD
+http://195.154.255.148:25461/live/skytv12/skyline/948.ts
+#EXTINF:-1 tvg-id="" tvg-name="NICKELODEON HD" tvg-logo="" group-title="LATINOS HD",NICKELODEON HD
+http://195.154.255.148:25461/live/skytv12/skyline/899.ts
+#EXTINF:-1 tvg-id="" tvg-name="MULTIPREMIER" tvg-logo="" group-title="LATINOS HD",MULTIPREMIER
+http://195.154.255.148:25461/live/skytv12/skyline/1000.ts
+#EXTINF:-1 tvg-id="" tvg-name="CINECANAL HD" tvg-logo="" group-title="LATINOS HD",CINECANAL HD
+http://195.154.255.148:25461/live/skytv12/skyline/933.ts
+#EXTINF:-1 tvg-id="" tvg-name="COMEDY CENTRAL HD" tvg-logo="" group-title="LATINOS HD",COMEDY CENTRAL HD
+http://195.154.255.148:25461/live/skytv12/skyline/963.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE PELICULA" tvg-logo="" group-title="",DE PELICULA
+http://195.154.255.148:25461/live/skytv12/skyline/1309.ts
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY CHANEL HD" tvg-logo="" group-title="LATINOS HD",DISCOVERY CHANEL HD
+http://195.154.255.148:25461/live/skytv12/skyline/937.ts
+#EXTINF:-1 tvg-id="" tvg-name="Disney JR HD" tvg-logo="" group-title="LATINOS HD",Disney JR HD
+http://195.154.255.148:25461/live/skytv12/skyline/915.ts
+#EXTINF:-1 tvg-id="" tvg-name="FOX CINEMA HD" tvg-logo="" group-title="LATINOS HD",FOX CINEMA HD
+http://195.154.255.148:25461/live/skytv12/skyline/888.ts
+#EXTINF:-1 tvg-id="" tvg-name="FOX MOVIES HD" tvg-logo="" group-title="LATINOS HD",FOX MOVIES HD
+http://195.154.255.148:25461/live/skytv12/skyline/891.ts
+#EXTINF:-1 tvg-id="" tvg-name="FXM HD" tvg-logo="" group-title="LATINOS HD",FXM HD
+http://195.154.255.148:25461/live/skytv12/skyline/993.ts
+#EXTINF:-1 tvg-id="" tvg-name="GOLDEN PREMIER HD" tvg-logo="" group-title="LATINOS HD",GOLDEN PREMIER HD
+http://195.154.255.148:25461/live/skytv12/skyline/894.ts
+#EXTINF:-1 tvg-id="" tvg-name="H2 HD" tvg-logo="" group-title="",H2 HD
+http://195.154.255.148:25461/live/skytv12/skyline/945.ts
+#EXTINF:-1 tvg-id="" tvg-name="Movistar DCine HD" tvg-logo="" group-title="",Movistar DCine HD
+http://195.154.255.148:25461/live/skytv12/skyline/1317.ts
+#EXTINF:-1 tvg-id="" tvg-name="NATGEO WILD HD" tvg-logo="" group-title="LATINOS HD",NATGEO WILD HD
+http://195.154.255.148:25461/live/skytv12/skyline/898.ts
+#EXTINF:-1 tvg-id="" tvg-name="NICK JR HD" tvg-logo="" group-title="LATINOS HD",NICK JR HD
+http://195.154.255.148:25461/live/skytv12/skyline/950.ts
+http://195.154.255.148:25461/live/skytv12/skyline/973.ts
+#EXTINF:-1 tvg-id="" tvg-name="SPACE HD" tvg-logo="" group-title="LATINOS HD",SPACE HD
+http://195.154.255.148:25461/live/skytv12/skyline/927.ts
+#EXTINF:-1 tvg-id="" tvg-name="SYFY HD" tvg-logo="" group-title="",SYFY HD
+http://195.154.255.148:25461/live/skytv12/skyline/1267.ts
+#EXTINF:-1 tvg-id="" tvg-name="TOONCAST HD" tvg-logo="" group-title="LATINOS HD",TOONCAST HD
+http://195.154.255.148:25461/live/skytv12/skyline/979.ts
